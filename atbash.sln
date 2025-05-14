@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atbash", "atbash.csproj", "{D047EB07-16F1-499B-98BA-98D16F20EA1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D047EB07-16F1-499B-98BA-98D16F20EA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D047EB07-16F1-499B-98BA-98D16F20EA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D047EB07-16F1-499B-98BA-98D16F20EA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D047EB07-16F1-499B-98BA-98D16F20EA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BCC641C-1278-4CE4-B02A-87B57A5F39FE}
+	EndGlobalSection
+EndGlobal
